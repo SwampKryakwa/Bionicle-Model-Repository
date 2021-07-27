@@ -26,7 +26,7 @@ If you haven't used GitHub befor there is simple instruction:
 ![](readme/stepOpen.png)
 
 5. Create new branch;
-![](readme/stepFork.png)
+![](readme/stepNewBranch.png)
 
 6. Open folder in file explorer;
 ![](readme/stepShowInExplorer.png)
