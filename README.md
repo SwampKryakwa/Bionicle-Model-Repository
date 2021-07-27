@@ -14,6 +14,7 @@ Parts must be named as follows "NUMBER - Part name on BrickLink.
 ## Guide
 
 If you haven't used GitHub befor there is simple instruction:
+
 1. Create GitHub account;
 
 2. Fork this repository;
@@ -22,27 +23,21 @@ If you haven't used GitHub befor there is simple instruction:
 3. Download [GitHub Desktop](https://desktop.github.com/ "GitHub Desktop") and sign in;
 
 4. Open forked repository;
-
 ![](readme/stepOpen.png)
 
-4. Create new branch;
-
+5. Create new branch;
 ![](readme/stepFork.png)
 
-5. Open folder in file explorer;
-
+6. Open folder in file explorer;
 ![](readme/stepShowInExplorer.png)
 
-6. Add or update models;
+7. Add or update models;
 
-7. Commit changes;
-
+8. Commit changes;
 ![](readme/stepCommit.png)
 
-8. Publish branch;
-
+9. Publish branch;
 ![](readme/stepPublish.png)
 
-9. Create pull request;
-
+10. Create pull request;
 ![](readme/stepCreatePull.png)
