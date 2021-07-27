@@ -23,21 +23,21 @@ If you haven't used GitHub befor there is simple instruction:
 3. Download [GitHub Desktop](https://desktop.github.com/ "GitHub Desktop") and sign in;
 
 4. Open forked repository;
-![](readme/stepOpen.png)
+![](images/stepOpen.png)
 
 5. Create new branch;
-![](readme/stepNewBranch.png)
+![](images/stepNewBranch.png)
 
 6. Open folder in file explorer;
-![](readme/stepShowInExplorer.png)
+![](images/stepShowInExplorer.png)
 
 7. Add or update models;
 
 8. Commit changes;
-![](readme/stepCommit.png)
+![](images/stepCommit.png)
 
 9. Publish branch;
-![](readme/stepPublish.png)
+![](images/stepPublish.png)
 
 10. Create pull request;
-![](readme/stepCreatePull.png)
+![](images/stepCreatePull.png)
